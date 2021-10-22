@@ -6,7 +6,7 @@ cat ~/.ssh/config
 ```
 ### AWS
 ```
-go to "key pair"
+go to "key pairs" service
 uplaod private key
 ```
 
