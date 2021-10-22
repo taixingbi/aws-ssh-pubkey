@@ -6,9 +6,16 @@ cat ~/.ssh/config
 ```
 ### AWS
 ```
-go to "key pairs" service
-upload private key
+1. go to "key pairs" service
+2. upload private key
 ```
+### vscode
+```
+1. plugin ssh remote
+2. ssh configure file
+name: ubuntu
+```
+
 
 ### reference
 ```
