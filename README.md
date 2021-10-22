@@ -7,7 +7,7 @@ cat ~/.ssh/config
 ### AWS
 ```
 go to "key pairs" service
-uplaod private key
+upload private key
 ```
 
 ### reference
