@@ -13,7 +13,7 @@ cat ~/.ssh/config
 ```
 1. plugin ssh remote
 2. ssh configure file
-name: ubuntu
+User: ubuntu
 ```
 
 
