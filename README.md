@@ -2,12 +2,13 @@
 ### PubKeyAuthentication
 ```
 ssh-keygen
-vim ~/.ssh/config
-ssh-copy-id -i /path/to/key.pub SERVERNAME
-ssh-copy-id -i id_rsa.pub ubuntu@3.136.158.199
-
+cat ~/.ssh/config
 ```
-
+### AWS
+```
+go to "key pair"
+uplaod private key
+```
 
 ### reference
 ```
