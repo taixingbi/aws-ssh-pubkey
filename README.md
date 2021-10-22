@@ -13,7 +13,10 @@ cat ~/.ssh/config
 ```
 1. plugin ssh remote
 2. ssh configure file
-User: ubuntu
+Host 18.218.149.72
+  HostName 18.218.149.72
+  User ubuntu
+  IdentityFile ~/.ssh/id_rsa
 ```
 
 
